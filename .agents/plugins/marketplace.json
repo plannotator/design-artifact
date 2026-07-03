@@ -1,0 +1,20 @@
+{
+  "name": "design-artifact",
+  "interface": {
+    "displayName": "Design Artifact"
+  },
+  "plugins": [
+    {
+      "name": "plannotator-design-artifact",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/plannotator/design-artifact.git"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

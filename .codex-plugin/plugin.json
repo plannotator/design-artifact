@@ -1,0 +1,25 @@
+{
+  "name": "plannotator-design-artifact",
+  "version": "0.1.0",
+  "description": "Creative direction for HTML artifacts — palette, type, layout, theming, and sharing via tot.page.",
+  "author": {
+    "name": "plannotator",
+    "url": "https://github.com/plannotator"
+  },
+  "homepage": "https://github.com/plannotator/design-artifact",
+  "repository": "https://github.com/plannotator/design-artifact",
+  "license": "MIT",
+  "keywords": ["design", "html", "artifacts", "typography", "theming", "skills"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Design Artifact",
+    "shortDescription": "Creative direction for polished HTML artifacts",
+    "longDescription": "Design principles and creative direction for HTML artifacts — sizing up the brief's register, deliberate palette and type pairing, token-based light/dark theming, avoiding the generic AI aesthetic, and optionally sharing the finished page via tot.page.",
+    "developerName": "plannotator",
+    "category": "Productivity",
+    "capabilities": ["Write"],
+    "defaultPrompt": [
+      "Design a polished HTML artifact for this."
+    ]
+  }
+}

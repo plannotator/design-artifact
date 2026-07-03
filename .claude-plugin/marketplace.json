@@ -1,0 +1,22 @@
+{
+  "name": "design-artifact",
+  "owner": {
+    "name": "plannotator"
+  },
+  "description": "Design principles and creative direction for HTML artifacts.",
+  "plugins": [
+    {
+      "name": "plannotator-design-artifact",
+      "source": {
+        "source": "github",
+        "repo": "plannotator/design-artifact"
+      },
+      "description": "Creative direction for HTML artifacts — palette, type, layout, theming, and sharing via tot.page.",
+      "homepage": "https://github.com/plannotator/design-artifact",
+      "repository": "https://github.com/plannotator/design-artifact",
+      "license": "MIT",
+      "keywords": ["design", "html", "artifacts", "typography", "theming", "skills"],
+      "category": "productivity"
+    }
+  ]
+}

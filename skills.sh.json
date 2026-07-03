@@ -1,0 +1,13 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Design Artifact",
+      "description": "Creative direction for polished HTML artifacts.",
+      "skills": [
+        "design-artifact"
+      ]
+    }
+  ]
+}

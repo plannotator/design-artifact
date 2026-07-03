@@ -23,6 +23,22 @@ List available skills first:
 npx skills add plannotator/design-artifact --list
 ```
 
+### As a Claude Code plugin
+
+This repo is also a [plugin marketplace](https://code.claude.com/docs/en/plugin-marketplaces). Add it and install:
+
+```
+/plugin marketplace add plannotator/design-artifact
+/plugin install plannotator-design-artifact@design-artifact
+```
+
+### As a Codex plugin
+
+```bash
+codex plugin marketplace add plannotator/design-artifact
+codex plugin add plannotator-design-artifact@design-artifact
+```
+
 ## What's inside
 
 - `skills/design-artifact/SKILL.md` — the full design direction, agent-invocable whenever a visual HTML deliverable is being created or restyled.
