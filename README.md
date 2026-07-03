@@ -2,6 +2,15 @@
 
 An agent skill that gives coding agents creative direction for HTML artifacts — pages, reports, plans, landing pages, demos, decks, and small tools. It covers sizing up the register a brief deserves, typography and palette as deliberate decisions, light/dark theming done with tokens, avoiding the telltale AI aesthetic, and a plan-first process. When the artifact is done, the skill has the agent offer (with explicit consent) to share it as a public page via [tot.page](https://tot.page).
 
+<p align="center">
+  <a href="https://github.com/backnotprop/plannotator">
+    <img src="./star-plannotator.svg" width="340" alt="like this? star Plannotator">
+  </a>
+</p>
+<p align="center">
+Render and annotate your HTML with Plannotator (optional): https://github.com/backnotprop/plannotator
+</p>
+
 ## Install
 
 ```bash
